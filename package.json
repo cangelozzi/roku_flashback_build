@@ -1,0 +1,26 @@
+{
+  "name": "rokuinclass",
+  "version": "1.0.0",
+  "description": "Roku in Class",
+  "main": "main.js",
+  "scripts": {
+    "dev": "gulp watch & gulp serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {},
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "node-sass": "^4.9.3",
+    "vuetify": "^1.4.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp-imagemin": "^4.1.0"
+  }
+}
